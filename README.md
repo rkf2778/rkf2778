@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 # I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
 
+## Here are some of my projects
+
+1. A sinple project using Ruby On Rails
+2. Driver sleep detection and alarm system using Deep Learning
+3. Amazon clone using React & Redux
+4. Netflix Clone with React
 
 
