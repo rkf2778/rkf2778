@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 2. Driver sleep detection and alarm system using Deep Learning
 3. Amazon clone using React & Redux
 4. Netflix Clone with React
+5. Inventory Management with React/Redux
 
 
