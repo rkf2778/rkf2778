@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
 
-## Languages that I know :
+## Languages/Frameworks that I know :
 1. C programming
 2. C++
 3. Java/Java J2EE
