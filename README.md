@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Rohit. A self taught full stack developer that loves to code and
+# I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
 
 
-learn new things everyday
+
