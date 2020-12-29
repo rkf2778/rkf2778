@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
+# Hi. I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
 
 ## Languages/Frameworks that I know :
 01. C programming
