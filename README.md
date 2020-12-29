@@ -1,33 +1,17 @@
 ### Hi there 👋
 
-<!--
-**rkf2778/rkf2778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
 
 ## Languages/Frameworks that I know :
-1. C programming
-2. C++
-3. Java/Java J2EE
-
-4. Python
-5. Ruby
-6. Spring/Spring Boot
-7. Ruby on Rails
-8. HTML, CSS, JavaScript
-9. React JS, Gatsby
+01. C programming
+02. C++
+03. Java/Java-J2EE
+04. Python
+05. Ruby
+06. Spring framework/Spring Boot
+07. Ruby/Ruby on Rails
+08. HTML, CSS, JavaScript
+09. React JS, Gatsby, NextJs
 10. Node JS/Express JS
 11. MySQL, Oracle SQL, MongoDB, GraphQL
 
@@ -40,4 +24,13 @@ Here are some ideas to get you started:
 4. Netflix Clone with React
 5. Inventory Management with React/Redux
 
+
+
+- 🔭 I’m currently working on React projects
+- 🌱 I’m currently learning Sprinboot and React
+- 👯 I’m looking to collaborate on creating new applications
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about my projects
+- 📫 How to reach me: vividrohit@gmail.com
+- ⚡ Fun fact: I'm just a nooboe
 
