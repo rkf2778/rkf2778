@@ -5,7 +5,7 @@
 02. Python
 03. Spring Boot Microservices
 04. HTML5, CSS3, JavaScript
-05. React JS, NextJs, Vue Js
+05. React JS, NextJs, Vue Js, NuxtJs
 06. Node JS/Express JS
 07. MySQL, Oracle SQL, MongoDB, GraphQL
 08. Firebase, Netlify, Hostinger
