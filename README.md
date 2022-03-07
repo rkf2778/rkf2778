@@ -1,21 +1,31 @@
 # Hi. I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
 
 ## Some Things that I know :
-01. Java/Java-J2EE
-02. Python
-03. Spring Boot Microservices
-04. HTML5, CSS3, JavaScript
-05. React JS, NextJs, Vue Js, NuxtJs
-06. Node JS/Express JS
-07. MySQL, Oracle SQL, MongoDB, GraphQL
-08. Firebase, Netlify, Hostinger
 
-## Others : 
-01. Three.js
-02. Figma/AdobeXD
-03. Adobe Photoshop, Premier Pro, After Effects, Lightroom
+# Backend
+01. Java/Spring Boot Microservices
+02. NodeJs/ExpressJs
+03. Git/Github
+04. MySQL, Oracle SQL, MongoDB
+05. Firebase
+06. Hostinger, Netlify, Vercel
 
-## Here are some of my projects
+# Frontend
+
+01. HTML5, CSS3, JavaScript
+02. React JS(NextJs) / Vue Js(NuxtJs)
+03. Figma
+04. Three.js
+
+# Others : 
+Adobe Illustrator
+Adobe Photoshop
+Adobe Premier Pro
+Adobe After Effects
+Adobe Lightroom
+
+
+# Here are some of my projects i've worked on
 01. A simple project using Ruby On Rails
 02. Driver sleep detection and alarm system using Deep Learning
 03. Amazon clone using React & Redux
@@ -23,9 +33,9 @@
 05. Inventory Management with React/Redux
 
 
-## I'm working on : 
-🔭 VueJS projects
-🌱 Springboot and ReactJs
+## Currently working on : 
+🔭 VueJS(NUXT.js) projects
+🌱 Springboot and React.js(NEXT.js)
 🎨 Visual Design & Typography
 
 
