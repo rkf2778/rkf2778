@@ -1,6 +1,6 @@
-# Hi. I'm Rohit. A self taught full stack developer that loves to code and learn something new everyday
+# Hi. I'm Rohit. A self taught fullstack web developer that loves to code and learn something new everyday.
 
-## Some Things that I know :
+## Some things that I know :
 
 # Backend
 01. Java/Spring Boot Microservices
