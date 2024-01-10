@@ -36,9 +36,9 @@ Adobe Suite (Illustrator, Photoshop, Premier Pro, After Effects, Lightroom)
 
 
 ## Worked on : 
-🔭 VueJS(NUXT.js) projects
-🌱 Springboot and React.js(NEXT.js)
-🎨 Visual Design & Typography
+* 🔭 VueJS(NUXT.js) projects
+* 🌱 Springboot and React.js(NEXT.js)
+* 🎨 Visual Design & Typography
 
 
 
