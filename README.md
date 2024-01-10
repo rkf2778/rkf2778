@@ -11,19 +11,21 @@
 06. Hostinger, Netlify, Vercel
 
 # Frontend
-
 01. HTML5, CSS3, JavaScript
 02. React JS(NextJs) / Vue Js(NuxtJs)
 03. Figma
 04. Three.js
 
-# Others : 
-Adobe Illustrator
-Adobe Photoshop
-Adobe Premier Pro
-Adobe After Effects
-Adobe Lightroom
+# Data Science
+1. Python
+2. Jupyter Notebook
+3. Machine Learning/Deep Learning
+4. Tensorflow/Keras/Pytorch
+5. Data Vizualisation (Matplotlib/Seaborn)
+6. Streamlit
 
+# Others : 
+Adobe Suite (Illustrator, Photoshop, Premier Pro, After Effects, Lightroom)
 
 # Here are some of my projects i've worked on
 01. A simple project using Ruby On Rails
@@ -33,11 +35,11 @@ Adobe Lightroom
 05. Inventory Management with React/Redux
 
 
-## Currently working on : 
+## Worked on : 
 🔭 VueJS(NUXT.js) projects
 🌱 Springboot and React.js(NEXT.js)
 🎨 Visual Design & Typography
 
 
 
-📫 How to reach me : vividrohit@gmail.com
+📫 How to reach me : rohit.kf.dev@gmail.com
