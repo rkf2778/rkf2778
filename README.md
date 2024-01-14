@@ -4,8 +4,8 @@
 
 ## Here are some of my projects i've worked on
 1. Online review summarizer using RoBERTa and PEGASUS transformer models [[click here](https://github.com/rkf2778/online-review-summarizer)]
-2. A simple project using Ruby On Rails [[click here](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)]
-3. Driver sleep detection and alarm system using Deep Learning [[click here](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning)]
+2. Driver sleep detection and alarm system using Deep Learning [[click here](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning)]
+3. A simple project using Ruby On Rails [[click here](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)]
 4. Amazon clone using React & Redux [[click here](https://github.com/rkf2778/amazon-clone-react)]
 5. Netflix Clone with React [[click here](https://github.com/rkf2778/Netlfix-Clone-app)]
 6. Inventory Management with React/Redux [[click here](https://github.com/rkf2778/Product_Inventory_React_Capstone)]
