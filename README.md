@@ -2,8 +2,6 @@
 # Hi. I'm Rohit. A self taught fullstack web developer and data scientist.
 ## 📫 How to reach me : rohit.kf.dev@gmail.com
 
-## Here are some things that I know :
-
 ## Here are some of my projects i've worked on
 1. Online review summarizer using RoBERTa and PEGASUS transformer models [[click here](https://github.com/rkf2778/online-review-summarizer)]
 2. A simple project using Ruby On Rails [[click here](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)]
@@ -12,6 +10,8 @@
 5. Netflix Clone with React [[click here](https://github.com/rkf2778/Netlfix-Clone-app)]
 6. Inventory Management with React/Redux [[click here](https://github.com/rkf2778/Product_Inventory_React_Capstone)]
 
+
+# SKILLS
 ## Backend
 01. Java/Spring Boot Microservices
 02. NodeJs/ExpressJs
