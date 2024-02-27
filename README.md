@@ -3,6 +3,7 @@
 
 
 ## 📫 How to reach me : rohit.kf.dev@gmail.com
+## CHECK OUT MY PATREON [![Click Here](https://img.shields.io/badge/Click_Here-blue)](patreon.com/Devzone484)
 
 
 # Here are some of the project highlights :  
