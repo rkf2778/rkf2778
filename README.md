@@ -5,7 +5,7 @@
 ## 📫 How to reach me : rohit.kf.dev@gmail.com
 
 
-#Here are some of the project highlights :  
+# Here are some of the project highlights :  
 
 ## Data Science Projects 💻
 1. Online review summarizer using RoBERTa and PEGASUS transformer models [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/online-review-summarizer)
