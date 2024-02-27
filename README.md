@@ -42,9 +42,9 @@
 
 ## Frontend
 01. HTML5, CSS3, Javascript
-02. React.js (Next.js) [![Click Here](https://img.shields.io/badge/Website-blue)](https://react.dev/)
-03. Vue.js (Nuxt.js) [![Click Here](https://img.shields.io/badge/Website-blue)](https://vuejs.org/)
-04. Shadcn [![Click Here](https://img.shields.io/badge/Website-blue)](https://ui.shadcn.com/)
+02. React.js (Next.js) [![Click Here](https://img.shields.io/badge/React_Website-blue)](https://react.dev/) [![Click Here](https://img.shields.io/badge/Next_Website-blue)](https://nextjs.org/)
+03. Vue.js (Nuxt.js) [![Click Here](https://img.shields.io/badge/Vue_Website-blue)](https://vuejs.org/) [![Click Here](https://img.shields.io/badge/Nuxt_Website-green)](https://nuxt.com/)
+04. Shadcn [![Click Here](https://img.shields.io/badge/Website-#818a99)](https://ui.shadcn.com/)
 05. Figma [![Click Here](https://img.shields.io/badge/Website-blue)](https://www.figma.com/)
 06. Three.js [![Click Here](https://img.shields.io/badge/Website-blue)](https://www.threejs.com/)
 07. Contentful CMS [![Click Here](https://img.shields.io/badge/Website-blue)](https://contentful.com/)
