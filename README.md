@@ -11,7 +11,7 @@
 ## Data Science Projects 💻
 1. Online review summarizer using RoBERTa and PEGASUS transformer models [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/online-review-summarizer)
 2. Driver sleep detection and alarm system using Deep Learning [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning)
-
+   
 ## Frontend Projects 🖼️
 4. A simple project using Ruby On Rails [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)
 5. Amazon clone using React & Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/amazon-clone-react)
